@@ -1,2 +1,0 @@
-; app variable inside run.py
-module = run:app
